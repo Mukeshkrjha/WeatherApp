@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const kOPEN_WEATHER_API_KEY = '17a64a9a9904b4074127de8de6e5bb59';
+const kOPEN_WEATHER_API_KEY = 'Add your own API KEY';
 const kOPEN_WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const kTempTextStyle = TextStyle(
